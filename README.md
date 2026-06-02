@@ -39,4 +39,14 @@ This project analyzes the Netflix Movies and TV Shows dataset to discover conten
 - Clustered similar content using machine learning techniques.
 - Generated actionable insights through visual analytics.
 
-![Top 10 Movie Genres](screenshots/top10_movie_genres.png)
+## Top 10 Movie Genres
+
+![Top 10 Movie Genres](screenshots/top10_movie_genres.png.jpg)
+
+## Production Growth by Year
+
+![Production Growth](screenshots/production_growth_yearly.png.jpg)
+
+## Target Age vs Country Heatmap
+
+![Heatmap](screenshots/target_age_vs_country_heatmap.png.jpg)
