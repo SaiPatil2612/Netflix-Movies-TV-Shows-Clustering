@@ -49,4 +49,4 @@ This project analyzes the Netflix Movies and TV Shows dataset to discover conten
 
 ## Target Age vs Country Heatmap
 
-![Heatmap](screenshots/target_age_vs_country_heatmap.png.jpg)
+![Heatmap](screenshots/target_age_vs_country_heatmap.png)
