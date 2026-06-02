@@ -38,3 +38,5 @@ This project analyzes the Netflix Movies and TV Shows dataset to discover conten
 - Identified top content-producing countries.
 - Clustered similar content using machine learning techniques.
 - Generated actionable insights through visual analytics.
+
+![Top 10 Movie Genres](screenshots/top10_movie_genres.png)
